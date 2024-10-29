@@ -23,7 +23,7 @@ A multiplayer number guessing game where users can create and share game links f
 A Facebook clone made with Express, Node, React and MongoDB, utilising JWT tokens for authentication.
 
 ### [MakersBNB](https://github.com/MichaelVerdon/makersbnb-group-earth)
-An Airbnb clone made in python and flask, set up user authentication and a built features to access and manipulated data stored in a database with PostgreSQL.
+An Airbnb clone made in python and flask, set up user authentication and a built features to access and manipulate data stored in a database with PostgreSQL.
 
 ## 📫 Connect!
 - **Email**: [joewinter333@gmail.com](mailto:joewinter333@gmail.com)
