@@ -29,5 +29,3 @@ An Airbnb clone made in python and flask, set up user authentication and a built
 - **Email**: [joewinter333@gmail.com](mailto:joewinter333@gmail.com)
 - **LinkedIn**: [linkedin.com/in/joe-winter](https://www.linkedin.com/in/joe-winter-634643236/)
 - **GitHub**: [github.com/joe-winter](https://github.com/joe-winter)
-
-Thanks for stopping by!
