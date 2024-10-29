@@ -17,7 +17,7 @@ Through my journey at Makers Academy, I've learned about:
 
 ## 🚀 Projects
 ### [MakersUIGame](https://github.com/shammy642/MakersUIGame)
-A multiplayer number guessing game where users can create and share game links for others to join. Developed with Node.js, React, and Socket.IO, the game includes features like round timers, lobby management, and real-time updates. Deployed using render and a CI/CD pipeline with github actions.
+A multiplayer number guessing game where users can create and share game links for others to join. Developed with Node.js, React, and Socket.IO, the game includes features like round timers, lobbys, and real-time updates. Deployed using render and a CI/CD pipeline with github actions.
 
 ### [Acebook](https://github.com/Alexia-May/acebook-watermelon-club)
 A Facebook clone made with Express, Node, React and MongoDB, utilising JWT tokens for authentication.
